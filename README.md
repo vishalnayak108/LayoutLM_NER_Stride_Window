@@ -1,0 +1,1 @@
+# LayoutLM_NER_Stride_Window
